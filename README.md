@@ -12,4 +12,4 @@
   <a > &nbsp&nbsp&nbsp  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwayato&layout=compact&theme=transparent&hide_border=true"/> <a>
 </p>
     
-<p align='center'> <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwayato&theme=transparent&border=61dafb&hide_border=true"/> <a>
+<p align='center'> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iwayato&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&type=png&hide_current_streak=true" alt="GitHub Streak" /></a>
